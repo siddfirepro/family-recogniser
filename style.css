@@ -1,0 +1,17 @@
+body{
+    color:seashell;
+    background-color:gold;
+}
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects{
+    color:seashell;
+}
+#camera{
+    border: 2px dashed silver ;
+    width: 350px;
+    height: 300px;
+}
